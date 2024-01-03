@@ -16,6 +16,10 @@ Se pretende, a partir del SIM, crear una base de datos referente a los indicador
 ## Descarga de Datos
 El tablero esta sobre Power BI. Lo que dificultó su descarga de forma programática, por lo que, por el momento, se descargaron de forma manual. Se espera más adelante anexar la forma prográmatica. 
 
+(1) Tablero de Datos SIM: https://app.powerbi.com/view?r=eyJrIjoiOTczYWE5N2UtM2Q1MS00OGU4LWEwZjItOTI4Y2YwNDkzOWQzIiwidCI6ImNhOGYwOWY1LTMzNWUtNGZjNS04MDQxLWY1YjQ3MmEwMmVlZiIsImMiOjR9
+
+(2) SCEINE 2010, Sonora : https://www.inegi.org.mx/app/descarga/?ti=13&ag=00
+
 
 ## Base de Datos
 
