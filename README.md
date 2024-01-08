@@ -20,7 +20,7 @@ El tablero esta sobre Power BI. Lo que dificultó su descarga de forma programá
 
 (2) SCEINE 2010, Sonora : https://www.inegi.org.mx/app/descarga/?ti=13&ag=00
 
-
+(3) Marco Geoestadistico : https://www.inegi.org.mx/temas/mg/#descargas
 ## Base de Datos
 
 Una vez tenemos los datos en sus tablas tidy. Vamos a agruparlos de el tipo de dato. Según los indicadores tenemos dos:
