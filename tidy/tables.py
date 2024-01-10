@@ -3,12 +3,12 @@ Este código es una recopilación de la creación de las columas dentro de table
 """
 
 import pandas as pd
-import indicators_tables
+import transform.transform as transform
 import regex as re
 
 Sonora = pd.read_excel('..\\medium_data\\book_son.xlsx',sheet_name=None)
 Municipios = list(Sonora.keys())
-sonora = {municipio: indicators_tables.indicators_tables(Sonora, municipio) for municipio in Municipios}
+sonora = {municipio: transform.indicators_tables(Sonora, municipio) for municipio in Municipios}
 
 
 mun = Municipios[0]
