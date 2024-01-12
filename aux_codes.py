@@ -18,7 +18,6 @@ import requests as r
 def descarga(url, save_path, filename):
     html = r.get(url)
     with open(save_path + '\\' + filename) as download:
-        download.write(r.content)
-
+        download.write(html.content)
 
 print('Bien Hecho')
