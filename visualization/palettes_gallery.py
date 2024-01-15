@@ -16,5 +16,4 @@ revista = [cg.valor_publico_vainilla,
            cg.valor_publico_cafe,
            cg.valor_publico_rojo]
 
-
 print('Paletas Cargadas')
